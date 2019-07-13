@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Assalaam u alaikum from MMA. We learning to create a web application my first web site!!!
+         Assalaam u alaikum from MMA. We are learning to create a web application my first web site!!!
 		 </a>
       </header>
     </div>
